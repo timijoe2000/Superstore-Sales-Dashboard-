@@ -69,6 +69,7 @@ Consumers drive 48% of revenue — but Corporate clients (33%) tend to deliver h
 California and New York dominate, but states like Washington ($90K), Pennsylvania ($80K), Ohio ($70K), and Illinois ($60K) show solid baseline performance with clear upside.
 
 What I Learned
+
 	•	How to design multi-page Power BI dashboards with consistent theming
 	•	Using DAX to create dynamic KPI measures and time-based calculations
 	•	Applying Power BI’s built-in forecasting tool for short-term trend projection
@@ -76,6 +77,7 @@ What I Learned
 	•	Translating data insights into actionable business recommendations
 
 AUTHOR
+
   Adepoju Joseph Oluwatimileyin (Timi)
 Data Analytics Intern | Power BI | SQL | Excel
 📎 LinkedIn- Adepoju Joseph Oluwatimileyin.
